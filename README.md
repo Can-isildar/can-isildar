@@ -6,4 +6,4 @@ Merhaba ben Can Işıldar , Gaziantep Üniversitesi Elektrik-Elektronik Mühendi
 
 
 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](l https://www.linkedin.com/in/can-i%C5%9F%C4%B1ldar-8929ba226)
+[![Linkedin Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=linkedin&logoColor=white&link=link)](l https://www.linkedin.com/in/can-i%C5%9F%C4%B1ldar-8929ba226)

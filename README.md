@@ -1,6 +1,11 @@
-Merhaba ben Can Işıldar , Gaziantep Üniversitesi Elektrik-Elektronik Mühendisliği 4. sınıf öğrencisiyim.Front-end , back-end ve yapay zeka alanlarında kendimi geliştirmekteyim.
-Şu anda aktif olarak  HTML , CSS , Javascript , Java ve Artificial intelligence alanlarında kendimi geliştirmekteyim.
-
+I am a 24-year-old graduate of Gaziantep University with a degree in Electrical and 
+Electronics Engineering. Currently, I am actively seeking opportunities in the field of 
+software engineering. My passion for coding and problem-solving drives me to continually 
+explore and adapt to the latest advancements in the software development field.I am eager 
+to contribute my skills and enthusiasm to a dynamic team, and I am confident that my 
+academic background and practical experience make me a valuable asset in the field of 
+software engineering. Looking forward to the opportunity to discuss how my skills align 
+with your organization's needs.
 
 
 
